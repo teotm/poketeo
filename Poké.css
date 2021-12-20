@@ -1,0 +1,146 @@
+#zegar
+{
+	float: center;
+	font-size: 30px;
+	text-align: center;
+}
+
+
+a.pkmn:link
+{
+	color: #e09758;
+}
+
+a.pkmn:visited
+{
+	color: #e09758;
+}
+
+a.pkmn:hover
+{
+	color: #d08657;
+}
+
+a.mno:link
+{
+	color: #ffffff;
+	text-decoration: none;
+}
+
+a.mno:visited
+{
+	color: #ffffff;
+	text-decoration: none;
+}
+
+a.mno:hover
+{
+	color: #ffffff;
+}
+
+a.teowy:link
+{
+	color: #ffffff;
+	text-decoration: none;
+}
+
+a.teowy:visited
+{
+	color: #ffffff;
+	text-decoration: none;
+}
+
+a.teowy:hover
+{
+	color: #b038f0;
+}
+
+a.ii:link
+{
+	color: #ffd700;
+}
+
+a.ii:visited
+{
+	color: #ffd700;
+}
+
+a.ii:hover
+{
+	color: #c0c0c0;
+}
+
+a.iii:link
+{
+	color: #ff0000;
+}
+
+a.iii:visited
+{
+	color: #ff0000;
+}
+
+a.iii:hover
+{
+	color: #0000ff;
+}
+
+.donte
+{
+	font-size: 70px;
+}
+
+.back
+{
+	font-size: 35px;
+}
+
+a.backa:link
+{
+	color: #e09758;
+}
+
+a.backa:visited
+{
+	color: #e09758;
+}
+
+a.backa:hover
+{
+	color: #f4ab6c;
+}
+
+
+a.gry:link
+{
+	color: #000000;
+	text-decoration: none;
+}
+
+a.gry:visited
+{
+	color: #000000;
+	text-decoration: none;
+}
+
+a.gry:hover
+{
+	color: #111111;
+}
+
+table.gry
+{
+	background: #507c36;
+}
+
+td.sword
+{
+	background: #00d1f6;
+	color: #9E2306;
+}
+
+td.shield
+{
+	background: #9e2306;
+	color: #00d1f6;
+}

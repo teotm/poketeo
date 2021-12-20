@@ -1,0 +1,17 @@
+### PROTECT FILES ###
+<FilesMatch "\.(htaccess|htpasswd|ini|fla|psd|log|sh)$">
+Order Allow,Deny
+Deny from all
+</FilesMatch>
+
+RewriteEngine on
+RewriteRule poketeo 0main.html
+RewriteRule poketeo/rb 1rb.html
+RewriteRule poketeo/rb/000 1rb000.html
+RewriteRule poketeo/rb/001 1rb001.html
+RewriteRule poketeo/rb/002 1rb002.html
+RewriteRule poketeo/rb/003 1rb003.html
+RewriteRule poketeo/rb/004 1rb004.html
+RewriteRule poketeo/rs/122 3rs122.html
+RewriteRule poketeo/rs/122 4dp122.html
+RewriteRule poketeo/dp/122 4dp439.html
