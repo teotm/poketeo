@@ -20,3 +20,4 @@ function odliczanie()
 		 
 		 setTimeout("odliczanie()",1000);
 	}
+	// nie, dalej po kodowaniu fnfa, za chuja nwm o co chodzi
